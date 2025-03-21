@@ -1,7 +1,7 @@
 ### Olá! Eu sou o George Felipe!
 
 - 🌱 Hoje estou cursando Sistemas de Informação na Universidade Federal do Ceará.
-- 🤓 Atualmente estou estudando FrontEnd, onde estou vendo HTML5 com planos seguintes em começar CSS3 e JavaScript.
+- 🤓 Atualmente estou estudando Ciência de Dados, com intuito de seguir por Neural Network, Deep Learning, Machine Learning.
 - 💻 Já tive contato com várias tecnologias que estão listadas em ícones abaixo.
 <div style="display: inline_block"><br>  
   <img align="center" alt="George-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
