@@ -1,8 +1,8 @@
-### Olá! Eu sou o George Felipe!
+### Bem vindo à minha página do GitHub! Sou George Felipe!
 
 - 🌱 Hoje estou cursando Sistemas de Informação na Universidade Federal do Ceará.
-- 🤓 Atualmente estou estudando Ciência de Dados, com intuito de seguir por Neural Network, Deep Learning, Machine Learning.
-- 🍃 Também estou me aventurando por Spring (Java), FastAPI(Python) fazendo uso de ferramentas extras para ambos(RESTED, H2, DTO, entre outros).
+- 🤓 Atualmente, estou me introduindo em Ciência de Dados.
+- 🍃 Também estou me aventurando por FastAPI(Python), Spring (Java) fazendo uso de ferramentas extras para ambos(RESTED, H2, Hibernate, entre outros).
 - 💻 Já tive contato com várias tecnologias que estão listadas em ícones abaixo.
 <div style="display: inline_block"><br>  
   <img align="center" alt="George-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
