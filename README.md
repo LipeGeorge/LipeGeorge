@@ -1,8 +1,6 @@
 ### Bem vindo à minha página do GitHub! Sou George Felipe!
 
-- 🌱 Hoje estou cursando Sistemas de Informação na Universidade Federal do Ceará.
-- 🤓 Atualmente, estou me introduindo em Ciência de Dados.
-- 🍃 Também estou me aventurando por FastAPI(Python), Spring (Java) fazendo uso de ferramentas extras para ambos(RESTED, H2, Hibernate, entre outros).
+- 🌱 Atualmente estou cursando Sistemas de Informação na Universidade Federal do Ceará.
 - 💻 Já tive contato com algumas tecnologias que estão listadas em ícones abaixo.
 <div style="display: inline_block"><br>  
   <img align="center" alt="George-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -10,7 +8,13 @@
   <img align="center" alt="George-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="George-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"> 
   <img align="center" alt="George-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-
+  <img align="center" alt="George-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="George-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="George-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="George-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
+  <img align="center" alt="George-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
+          
+          
 </div>
 
 ##
